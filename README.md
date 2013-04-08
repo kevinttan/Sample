@@ -1,8 +1,3 @@
 Sample
 ======
-
-sample
-
-
-
-waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+edit 1
